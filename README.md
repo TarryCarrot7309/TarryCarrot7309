@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TarryCarrot7309
+- 👀 I’m interested in: Coding desktop apps;
+- 🌱 I’m currently learning: C++ ;
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me:???;
