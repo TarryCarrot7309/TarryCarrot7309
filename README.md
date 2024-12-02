@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TarryCarrot7309
-- 👀 I’m interested in: Coding desktop apps;
+- 👀 I’m interested in: Coding desktop apps and algorothims;
 - 🌱 I’m currently learning: C++, QT Desktop app development, python and AI/Machine learning;
 - 💞️ I’m looking to collaborate: on C++ desktop apps;
 - 📫 How to reach me:???;
