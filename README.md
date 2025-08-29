@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TarryCarrot7309
-- 👀 I’m interested in: DSA;
-- 🌱 I’m currently learning: C++, python and AI/Ml;
-- 💞️ I’m looking to collaborate: on C++ desktop apps;
+- 👋 Hi, I’m @TarryCarrot
+- 👀 I’m interested in: DSA, fullstack Web development;
+- 🌱 I’m currently learning:AI/Ml, Javascript, Django;
+- 💞️ I’m looking to collaborate: on Fullstack apps;
 - 📫 How to reach me:???;
